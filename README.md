@@ -6,6 +6,8 @@ Olá! Meu nome é Gabriel Oliveira, e sou um desenvolvedor web apaixonado por cr
 
 - 📧 E-mail: gabriel_lopeslomeu@hotmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/gabriel-o-620887109
+- 📄 Currículo (português): ![Alt text]()
+- 📄 Curriculum (english): ![Alt text]()
 
 ## Habilidades Técnicas
 
